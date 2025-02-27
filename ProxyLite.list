@@ -1,5 +1,8 @@
 # 代理补充列表
 
+# 源IP匹配（来自192.168.1.37的流量直连）
+SRC-IP-CIDR,192.168.1.37/32,DIRECT,no-resolve
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
@@ -29,3 +32,9 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
+# 目标IP位于中国的流量直连
+GEOIP,CN,DIRECT
+
+# 兜底规则（未匹配的流量走代理）
+MATCH,PROXY
