@@ -24,6 +24,9 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+# 微软中国CDN
+IP-CIDR,131.107.0.0/16,no-resolve  # 微软中国AS8075
+IP-CIDR,204.79.197.0/24,no-resolve
 
 # 360
 DOMAIN-SUFFIX,360.com
@@ -329,6 +332,11 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 
+# 微软中国服务
+DOMAIN-SUFFIX,cn.bing.com          # 国内版Bing搜索
+DOMAIN-SUFFIX,rewards.bing.com     # Bing奖励系统
+DOMAIN-SUFFIX,bingapis.com         # Bing API服务
+DOMAIN-SUFFIX,bing.com             # 主域名（需验证国内可用性）
 
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
