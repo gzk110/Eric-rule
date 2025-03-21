@@ -78,6 +78,9 @@ DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
 
+#DeepSeek
+DOMAIN-SUFFIX,deepseek.com
+
 # Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
