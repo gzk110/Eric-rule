@@ -9,8 +9,9 @@ DOMAIN-SUFFIX,hao123.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,rewards.bing.com
+DOMAIN-KEYWORD,cn.bing.com
 
-#完整域名的匹配规则
+# 完整域名的匹配规则
 DOMAIN,api.cloud.189.cn,DIRECT
 
 # IP段匹配
