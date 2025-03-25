@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,homa.snapgenshin.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,snapgenshin
 
 # 匹配域名
 DOMAIN,homa.snapgenshin.com
