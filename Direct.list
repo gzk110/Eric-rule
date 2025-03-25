@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,rewards.bing.com
 
+#完整域名的匹配规则
+DOMAIN,api.cloud.189.cn,DIRECT
+
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
