@@ -1,0 +1,22 @@
+# 代理连接日本
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,paycalling.com
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,mgstage.com
+DOMAIN-SUFFIX,avsox.click
+DOMAIN-SUFFIX,hscangku.net
+DOMAIN-SUFFIX,cableav.tv
+DOMAIN-SUFFIX,love6.tv
+DOMAIN-SUFFIX,yesjav.info
+DOMAIN-SUFFIX,prestige-av.com
+DOMAIN-SUFFIX,bi-av.com
+DOMAIN-SUFFIX,fitch-av.com
+DOMAIN-SUFFIX,befreebe.com
+DOMAIN-SUFFIX,muku.tv
+DOMAIN-SUFFIX,mko-labo.net
+DOMAIN-SUFFIX,bibian-av.com
+DOMAIN-SUFFIX,hajimekikaku.com
+DOMAIN-SUFFIX,hajimekikaku.com
+DOMAIN-SUFFIX,hhh-av.com
+
