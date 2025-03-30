@@ -1,7 +1,6 @@
-# 代理连接日本
+# 代理连接日本特殊站点
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,paycalling.com
 DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,avsox.click
