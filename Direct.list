@@ -13,7 +13,8 @@ DOMAIN-KEYWORD,rewards.bing.com
 DOMAIN-KEYWORD,cn.bing.com
 
 # 完整域名的匹配规则
-DOMAIN,api.cloud.189.cn,DIRECT
+DOMAIN,api.cloud.189.cn
+DOMAIN,chat.deepseek.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
