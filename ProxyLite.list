@@ -5,12 +5,10 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,llg01.com
 DOMAIN-SUFFIX,xn--ehqx7tcnnope.com
 DOMAIN-SUFFIX,homa.snapgenshin.com
-DOMAIN-SUFFIX,githubusercontent.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,snapgenshin
-DOMAIN-KEYWORD,githubusercontent
 
 # 匹配域名
 DOMAIN,homa.snapgenshin.com
