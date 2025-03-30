@@ -19,3 +19,5 @@ DOMAIN-SUFFIX,hajimekikaku.com
 DOMAIN-SUFFIX,hajimekikaku.com
 DOMAIN-SUFFIX,hhh-av.com
 
+# 域名关键字匹配
+DOMAIN-KEYWORD, javlibrary
