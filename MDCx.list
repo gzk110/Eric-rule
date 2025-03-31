@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,bibian-av.com
 DOMAIN-SUFFIX,hajimekikaku.com
 DOMAIN-SUFFIX,hajimekikaku.com
 DOMAIN-SUFFIX,hhh-av.com
+DOMAIN-SUFFIX,dmm.co.jp
 
 # 域名关键字匹配
-DOMAIN-KEYWORD, javlibrary
+DOMAIN-KEYWORD,javlibrary
+DOMAIN-KEYWORD,dmm
