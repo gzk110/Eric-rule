@@ -25,3 +25,5 @@ DOMAIN-KEYWORD,javlibrary
 DOMAIN-KEYWORD,dmm
 
 # 完整域名的匹配规则
+DOMAIN,accounts.dmm.co.jp
+DOMAIN,special.dmm.co.jp
