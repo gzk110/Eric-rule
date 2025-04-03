@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,homa.snapgenshin.com
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,snapgenshin
 DOMAIN-KEYWORD,githubusercontent
+DOMAIN-KEYWORD,mypikpak
 
 # 匹配域名
 DOMAIN,homa.snapgenshin.com
