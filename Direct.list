@@ -18,6 +18,7 @@ DOMAIN-KEYWORD,avsex
 DOMAIN,api.cloud.189.cn
 DOMAIN,chat.deepseek.com
 DOMAIN,cn.airav.wiki
+DOMAIN,gia.jd.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
