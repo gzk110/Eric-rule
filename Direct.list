@@ -7,18 +7,21 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,paycalling.com
+DOMAIN-SUFFIX,jd.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,rewards.bing.com
 DOMAIN-KEYWORD,cn.bing.com
 DOMAIN-KEYWORD,avsex 
+DOMAIN-KEYWORD,jd.com
 
 # 完整域名的匹配规则
 DOMAIN,api.cloud.189.cn
 DOMAIN,chat.deepseek.com
 DOMAIN,cn.airav.wiki
 DOMAIN,gia.jd.com
+DOMAIN,api.m.jd.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
