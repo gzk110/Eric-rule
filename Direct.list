@@ -22,6 +22,7 @@ DOMAIN,chat.deepseek.com
 DOMAIN,cn.airav.wiki
 DOMAIN,gia.jd.com
 DOMAIN,api.m.jd.com
+DOMAIN,api-cloudgame.mihoyo.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
