@@ -20,11 +20,13 @@ DOMAIN-SUFFIX,hajimekikaku.com
 DOMAIN-SUFFIX,hhh-av.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,arzon.jp
+DOMAIN-SUFFIX,xslist.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,javlibrary
 DOMAIN-KEYWORD,dmm
 DOMAIN-KEYWORD,arzon
+DOMAIN-KEYWORD,XsList
 
 # 完整域名的匹配规则
 DOMAIN,accounts.dmm.co.jp
