@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,xn--ehqx7tcnnope.com
 DOMAIN-SUFFIX,homa.snapgenshin.com
 DOMAIN-SUFFIX,abcproxy.com
 DOMAIN-SUFFIX,whatsmydns.net
+DOMAIN-SUFFIX,bigolive.tv
+DOMAIN-SUFFIX,bigolive.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
@@ -15,6 +17,7 @@ DOMAIN-KEYWORD,githubusercontent
 DOMAIN-KEYWORD,mypikpak
 DOMAIN-KEYWORD,abcproxy
 DOMAIN-KEYWORD,whatsmydns
+DOMAIN-KEYWORD,bigolive
 
 # 匹配域名
 DOMAIN,homa.snapgenshin.com
