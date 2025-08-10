@@ -1,7 +1,7 @@
 # 机场订阅
 proxy-providers:
   Airport CF搭建BPB:
-    url: "https://wvswzcvtyohg.ap-northeast-1.clawcloudrun.com/gzkmysubstore/download/CF%E6%90%AD%E5%BB%BABPB"
+    url: ""
     type: http
     interval: 86400
     health-check:
@@ -10,7 +10,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   Airport 流量光:
-    url: "https://wvswzcvtyohg.ap-northeast-1.clawcloudrun.com/gzkmysubstore/download/%E6%B5%81%E9%87%8F%E5%85%89"
+    url: ""
     type: http
     interval: 86400
     health-check:
@@ -19,7 +19,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   Airport 三毛:
-    url: "https://wvswzcvtyohg.ap-northeast-1.clawcloudrun.com/gzkmysubstore/download/%E4%B8%89%E6%AF%9B"
+    url: ""
     type: http
     interval: 86400
     health-check:
@@ -36,7 +36,7 @@ proxy-providers:
       up: "10 Mbps"
       skip-cert-verify: true
   Airport subs-Check:
-    url: "https://wvswzcvtyohg.ap-northeast-1.clawcloudrun.com/gzkmysubstore/download/subs-Check"
+    url: ""
     type: http
     interval: 86400
     health-check:
