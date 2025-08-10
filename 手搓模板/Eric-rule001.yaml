@@ -1,7 +1,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://wvswzcvtyohg.ap-northeast-1.clawcloudrun.com/gzkmysubstore/download/CF%E6%90%ADPB"
+    url: ""
     type: http
     interval: 86400
     health-check:
@@ -10,7 +10,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   Airport2:
-    url: "https://wvswzcvtyohg.ap-northeast-1.clawcloudrun.com/gzkmysubstore/download/%E6%B587%8F%E5%85%89"
+    url: ""
     type: http
     interval: 86400
     health-check:
@@ -19,7 +19,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   Airport3:
-    url: "https://wvswzcvtyohg.ap-northeast-1.clawcloudrunmysubstore/download/%E4%AF%9B"
+    url: ""
     type: http
     interval: 86400
     health-check:
@@ -28,7 +28,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   Airport3:
-    url: "https://wvswzcvtyohg.ap-northeast-1.clawcloudrun.c"
+    url: ""
     type: http
     interval: 86400
     health-check:
