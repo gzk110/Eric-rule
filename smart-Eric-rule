@@ -176,7 +176,7 @@ proxy-groups:
   - {name: subs 奈飞节点, type: select, include-all: true, filter: "(?i)NF|奈飞|解锁|Netflix|NETFLIX|Media"}
   - {name: subs AI, type: select, include-all: true, filter: "(?i)GPT|gpt"}
   - {name: 🌐 全部节点, type: select, include-all: true}
-# use: Airport1;use: Airport2;use: Airport3;use: Airport4;use: Airport5;use: Airport1
+# use: Airport1;use: Airport2;use: Airport3;use: Airport4;use: Airport5;use: Airport6
 # 负载均衡 type: load-balance  strategy: round-robin /consistent-hashing /sticky-sessions    
 
 # 规则匹配
