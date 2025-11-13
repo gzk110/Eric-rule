@@ -4,6 +4,9 @@
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javdb.app
 DOMAIN-SUFFIX,jdbstatic.com
+DOMAIN-SUFFIX,jav.app
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,javdb
+DOMAIN-KEYWORD,jav
+
