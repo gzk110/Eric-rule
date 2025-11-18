@@ -1,0 +1,33 @@
+# 代理连接日本特殊站点
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,fanza.jp
+DOMAIN-SUFFIX,mgstage.com
+DOMAIN-SUFFIX,caribbeancom.com
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,jav321.com
+DOMAIN-SUFFIX,avmoo.website
+DOMAIN-SUFFIX,avsox.click
+DOMAIN-SUFFIX,avbase.ne
+DOMAIN-SUFFIX,missav123.com
+DOMAIN-SUFFIX,fc2.com
+DOMAIN-SUFFIX,fc2hub.com
+DOMAIN-SUFFIX,fc2ppvdb.com
+DOMAIN-SUFFIX,hbox.jp
+DOMAIN-SUFFIX,jmapiproxy3
+DOMAIN-SUFFIX,madou.club
+DOMAIN-SUFFIX,madouqu.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,javlibrary
+DOMAIN-KEYWORD,dmm
+DOMAIN-KEYWORD,arzon
+
+# 完整域名的匹配规则
+DOMAIN,accounts.dmm.co.jp
+DOMAIN,special.dmm.co.jp
+DOMAIN,pics.dmm.co.jp
+
+
