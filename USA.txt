@@ -1,0 +1,30 @@
+# 代理连接美国特殊站点
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN,picaapi.picacomic.com
+DOMAIN-SUFFIX,18mh.org
+DOMAIN-SUFFIX,mangabuddy.in
+DOMAIN,host-cover.mangabuddy.in
+DOMAIN,s3-nl-01.mangabuddy.in
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,18comic.org
+DOMAIN-SUFFIX,jmcomic.me
+DOMAIN-SUFFIX,jmcomic1.me
+DOMAIN-SUFFIX,jm18c-cvb.net
+DOMAIN-SUFFIX,jm18c-tyu.net
+DOMAIN-SUFFIX,jm18c-cvb.cc
+DOMAIN-SUFFIX,xchina.co
+
+# 域名关键字匹配
+#DOMAIN-KEYWORD
+
+# 完整域名的匹配规则
+DOMAIN,cdn-msp.jmdanjonproxy.vip
+DOMAIN,cdn-msp.jmapiproxy3.cc
+DOMAIN,cdn-msp2.jmapiproxy3.cc
+DOMAIN,cdn-msp3.jmapiproxy3.cc
+DOMAIN,picaapi.picacomic.com
+DOMAIN,pica-a-display.diwodiwo.xyz
+DOMAIN,s3.picacomic.com
+DOMAIN,storage-b.picacomic.com
