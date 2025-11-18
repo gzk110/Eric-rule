@@ -1,0 +1,12 @@
+# 代理连接新加坡特殊站点
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,freejavbt.com
+DOMAIN-SUFFIX,theporndb.net
+DOMAIN-SUFFIX,7mmtv.sx
+
+# 域名关键字匹配
+#DOMAIN-KEYWORD
+
+# 完整域名的匹配规则
+DOMAIN,www.cdn-mspjmapiproxy.xyz
