@@ -17,7 +17,8 @@ DOMAIN-SUFFIX,jm18c-cvb.cc
 DOMAIN-SUFFIX,xchina.co
 
 # 域名关键字匹配
-#DOMAIN-KEYWORD
+DOMAIN-KEYWORD,jmapiproxy3
+DOMAIN-KEYWORD,picacomic
 
 # 完整域名的匹配规则
 DOMAIN,cdn-msp.jmdanjonproxy.vip
@@ -28,3 +29,4 @@ DOMAIN,picaapi.picacomic.com
 DOMAIN,pica-a-display.diwodiwo.xyz
 DOMAIN,s3.picacomic.com
 DOMAIN,storage-b.picacomic.com
+
