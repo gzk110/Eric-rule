@@ -17,9 +17,11 @@ DOMAIN-SUFFIX,fc2ppvdb.com
 DOMAIN-SUFFIX,hbox.jp
 DOMAIN-SUFFIX,madou.club
 DOMAIN-SUFFIX,madouqu.com
+DOMAIN-SUFFIX,dmm.co.jp
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,javlibrary
 DOMAIN-KEYWORD,arzon
 
 # 完整域名的匹配规则
+
