@@ -15,12 +15,10 @@ DOMAIN-SUFFIX,jm18c-cvb.net
 DOMAIN-SUFFIX,jm18c-tyu.net
 DOMAIN-SUFFIX,jm18c-cvb.cc
 DOMAIN-SUFFIX,xchina.co
-DOMAIN-SUFFIX,dmm.co.jp
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,jmapiproxy3
 DOMAIN-KEYWORD,picacomic
-DOMAIN-KEYWORD,dmm
 
 # 完整域名的匹配规则
 DOMAIN,cdn-msp.jmdanjonproxy.vip
@@ -31,7 +29,3 @@ DOMAIN,picaapi.picacomic.com
 DOMAIN,pica-a-display.diwodiwo.xyz
 DOMAIN,s3.picacomic.com
 DOMAIN,storage-b.picacomic.com
-DOMAIN,accounts.dmm.co.jp
-DOMAIN,special.dmm.co.jp
-DOMAIN,pics.dmm.co.jp
-
