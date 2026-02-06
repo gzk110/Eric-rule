@@ -89,3 +89,8 @@ DOMAIN-SUFFIX,finsterwalder.com
 DOMAIN-SUFFIX,axialys.net
 DOMAIN-SUFFIX,voipgate.com
 DOMAIN-SUFFIX,vomessen.de
+
+# 其他域名直连
+DOMAIN-SUFFIX,my.dnshe.com
+DOMAIN-SUFFIX,icmp9.com
+
