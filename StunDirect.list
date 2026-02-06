@@ -1,6 +1,8 @@
-# Stun域名直连
+# 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 域名后缀匹配
+
+# Stun域名直连
 DOMAIN-SUFFIX,annatel.net
 DOMAIN-SUFFIX,poetamatusel.org
 DOMAIN-SUFFIX,lleida.net
