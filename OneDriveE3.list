@@ -1,0 +1,6 @@
+# 代理连接OneDriveE3
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,graph.microsoft.com
+DOMAIN-SUFFIX,login.microsoftonline.com
+DOMAIN-SUFFIX,onedrive.live.com
