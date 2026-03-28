@@ -98,4 +98,4 @@ DOMAIN-SUFFIX,libtorrent.org
 DOMAIN-SUFFIX,pkmer.net
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,minimax
+#DOMAIN-KEYWORD,
