@@ -100,7 +100,6 @@ DOMAIN-SUFFIX,pulsedmedia.com
 DOMAIN-SUFFIX,nip.cmliussss.hidns.vip
 DOMAIN-SUFFIX,nz.56idc.net
 DOMAIN-SUFFIX,travisvn.com
-DOMAIN-SUFFIX,7mmtv.sx
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,7mmtv
+#DOMAIN-KEYWORD,
