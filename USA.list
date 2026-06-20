@@ -15,10 +15,12 @@ DOMAIN-SUFFIX,jm18c-cvb.net
 DOMAIN-SUFFIX,jm18c-tyu.net
 DOMAIN-SUFFIX,jm18c-cvb.cc
 DOMAIN-SUFFIX,xchina.co
+DOMAIN-SUFFIX,7mmtv.sx
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,jmapiproxy3
 DOMAIN-KEYWORD,picacomic
+DOMAIN-KEYWORD,7mmtv
 
 # 完整域名的匹配规则
 DOMAIN,cdn-msp.jmdanjonproxy.vip
