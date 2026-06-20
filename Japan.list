@@ -4,7 +4,6 @@
 DOMAIN-SUFFIX,fanza.jp
 DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,caribbeancom.com
-DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,jav321.com
 DOMAIN-SUFFIX,avmoo.website
@@ -20,7 +19,6 @@ DOMAIN-SUFFIX,madouqu.com
 DOMAIN-SUFFIX,dmm.co.jp
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,javlibrary
 DOMAIN-KEYWORD,arzon
 
 # 完整域名的匹配规则
