@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,jm18c-cvb.cc
 DOMAIN-SUFFIX,7mmtv.sx
 DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,airav.io
+DOMAIN-SUFFIX,javten.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,jmapiproxy3
@@ -24,6 +25,7 @@ DOMAIN-KEYWORD,picacomic
 DOMAIN-KEYWORD,7mmtv
 DOMAIN-KEYWORD,javlibrary
 DOMAIN-KEYWORD,airav
+DOMAIN-KEYWORD,javten
 
 # 完整域名的匹配规则
 DOMAIN,cdn-msp.jmdanjonproxy.vip
