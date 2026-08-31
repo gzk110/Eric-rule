@@ -7,17 +7,12 @@ DOMAIN-SUFFIX,18mh.org
 DOMAIN-SUFFIX,mangabuddy.in
 DOMAIN,host-cover.mangabuddy.in
 DOMAIN,s3-nl-01.mangabuddy.in
-DOMAIN-SUFFIX,18comic.vip
-DOMAIN-SUFFIX,18comic.org
-DOMAIN-SUFFIX,jmcomic.me
-DOMAIN-SUFFIX,jmcomic1.me
-DOMAIN-SUFFIX,jm18c-cvb.net
-DOMAIN-SUFFIX,jm18c-tyu.net
-DOMAIN-SUFFIX,jm18c-cvb.cc
 DOMAIN-SUFFIX,7mmtv.sx
 DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,airav.io
 DOMAIN-SUFFIX,javten.com
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,18comic.ink
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,jmapiproxy3
